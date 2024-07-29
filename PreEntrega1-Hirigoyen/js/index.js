@@ -1,0 +1,4 @@
+bienvenido();
+menuInventario();
+
+
